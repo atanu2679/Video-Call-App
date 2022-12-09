@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590458573885",
+    "project_id": "hgsc-meet",
+    "storage_bucket": "hgsc-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590458573885:android:2f119475195dbcbaff8654",
+        "android_client_info": {
+          "package_name": "com.atanu.hgscmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590458573885-jhgif3qdtoffcdtk4pf532kh3ljldbum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSKz9dr7xqcnWpxp2vOBhJYksuzp9f8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590458573885-jhgif3qdtoffcdtk4pf532kh3ljldbum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
